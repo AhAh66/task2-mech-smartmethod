@@ -17,7 +17,7 @@ This project involves designing a robot base with two wheels, ensuring that the 
 
 ## Accessing the Design  
 You can view the 3D design on Onshape using the following link:  
-[[🔗 Project Link](#) _(Replace # with the actual link)_  ](https://cad.onshape.com/documents/b6dd23882abc695cf1731f31/w/fcac87c643c0e818f9473b0a/e/952177a248faf9ed79a973c2?renderMode=0&uiState=67adfae0586bdb75b73f7785)
+https://cad.onshape.com/documents/b6dd23882abc695cf1731f31/w/fcac87c643c0e818f9473b0a/e/952177a248faf9ed79a973c2?renderMode=0&uiState=67adfb1f586bdb75b73f77bc
 
 ## Image Preview  
 Below is a preview of the robot base design:  
